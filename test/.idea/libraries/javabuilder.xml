@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javabuilder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../北京冠奕自控/javabuilder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../北京冠奕自控/gfun_sum/gfun_sum/for_redistribution_files_only/gfun_sum.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../北京冠奕自控/class/gfun_a2vd_t/for_redistribution_files_only/gfun_a2vd_t.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
